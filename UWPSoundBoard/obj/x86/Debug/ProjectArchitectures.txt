@@ -1,0 +1,1 @@
+C:\Users\Kaure\source\KalAcademy\UWPSoundBoard\UWPSoundBoard\UWPSoundBoard.csproj;x86
