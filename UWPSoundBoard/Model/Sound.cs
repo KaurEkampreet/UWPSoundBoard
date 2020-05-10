@@ -20,7 +20,8 @@ namespace UWPSoundBoard.Model
             public string AudioFile { get; set; }
             public string ImageFile { get; set; }
 
-            public Sound(string name, SoundCategory category)
+        
+        public Sound(string name, SoundCategory category)
             {
                 Name = name;
                 Category = category;
